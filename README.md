@@ -1,4 +1,4 @@
-# Practice with git and GitHub
+# Practice with git and GitHub ✨
 
 \[Your Step 3 Edit Here\]
 
